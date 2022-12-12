@@ -1,6 +1,6 @@
 .container {
-    grid-template-rows:    repeat(3, 33vh);
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows:    repeat(4, 25vh);
+    grid-template-columns: repeat(4, 1fr);
     display: grid;
 }
 
@@ -17,6 +17,6 @@
 }
 
 iframe {
-    width: 25vw;
-    height: 25vh;
+    width: 20vw;
+    height: 20vh;
 }
