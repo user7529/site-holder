@@ -8,12 +8,10 @@ body {
     grid-template-columns: repeat(5, 1fr);
     display: grid;
     background-color: black;
-
 }
 
 .container {
     padding:12px;
-    color;
 }
 
 .inner {
