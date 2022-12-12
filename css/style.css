@@ -1,8 +1,19 @@
+body {
+    color: black;
+}
+
+
 .container {
     grid-template-rows:    repeat(5, 19vh);
     grid-template-columns: repeat(5, 1fr);
     display: grid;
     background-color: black;
+
+}
+
+.container {
+    padding:12px;
+    color;
 }
 
 .inner {
@@ -18,6 +29,6 @@
 }
 
 iframe {
-    width: 15vw;
-    height: 15vh;
+    width: 16vw;
+    height: 16vh;
 }
