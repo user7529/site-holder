@@ -3,3 +3,15 @@
     grid-template-columns: repeat(3, 1fr);
     display: grid;
 }
+
+.inner {
+    justify-items: center;
+    align-items:   center;
+    display: grid;
+
+}
+
+.inner2 {
+    justify-self: center;
+    align-self:   center;
+}
